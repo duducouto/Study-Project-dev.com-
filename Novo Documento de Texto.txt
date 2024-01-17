@@ -1,0 +1,1 @@
+Small HTML/CSS project done while studying Angela Yu course. 
